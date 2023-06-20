@@ -2,8 +2,10 @@
 
 /**
  * main - Entry point
+ *
  * Description: write a program that prints all possible
- * different combination of two digits
+ *		different combination of two digits
+ *
  * Return: 0
 */
 
@@ -11,7 +13,7 @@ int main(void)
 {
 	int firstDigit = 0, seconDigit;
 
-	while (first <= 99)
+	while (firstDigit <= 99)
 	{
 		seconDigit = firstDigit;
 		while (seconDigit <= 99)
