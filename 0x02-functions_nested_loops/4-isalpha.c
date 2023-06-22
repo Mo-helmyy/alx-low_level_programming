@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islapha - checks if character isa a letter
+ * _isalpha - checks if character isa a letter
  *	both lowercase ot uppercase
  *
  * @C: takes input from other functions.
